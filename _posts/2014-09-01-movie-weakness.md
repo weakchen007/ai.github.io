@@ -1,9 +1,13 @@
 ---
-layout: post
-title: 电影《弱点》观后感 
-categories: Movie
-description:  电影弱点观后感
-keywords: 电影，movie，弱点，the blind side
+layout:     post
+title:      电影《弱点》观后感
+subtitle:   电影观后感。
+date:       1994-09-01
+author:     Aiwv
+header-img: img/post-bg-article.jpg
+catalog: true
+tags:
+    - 日记
 ---
 
 # 电影《弱点》观后感 
@@ -39,4 +43,3 @@ keywords: 电影，movie，弱点，the blind side
 真实生活的一家人
 
 ![image](https://github.com/weakchen007/aiwv.github.io/assets/58799395/f54a9e52-feab-4522-a6ff-4a088534d249)
-
