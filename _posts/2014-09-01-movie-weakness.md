@@ -2,7 +2,7 @@
 layout:     post
 title:      电影《弱点》观后感
 subtitle:   电影观后感。
-date:       1994-09-01
+date:       2014-09-01
 author:     Aiwv
 header-img: img/post-bg-article.jpg
 catalog: true
