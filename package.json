@@ -1,14 +1,14 @@
 {
     "name": "w-blog",
-    "title": "Will Wang Blog",
-    "author": "Will Wang <wzbcode@163.com>",
+    "title": "FQY Blog",
+    "author": "FQY <fqy@aiwv.tech>",
     "version": "1.7.0",
-    "homepage": "https://flyingwzb.github.io",
+    "homepage": "https://ai.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/flyingwzb/flyingwzb.github.io"
+        "url": "https://github.com/weakchen007/ai.github.io"
     },
-    "bugs": "https://github.com/flyingwzb/flyingwzb.github.io/issues",
+    "bugs": "https://github.com/weakchen007/ai.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
